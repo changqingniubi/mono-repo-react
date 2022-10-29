@@ -15,5 +15,6 @@
   "dependencies": {
     "antd": "4.9.4",
     "cross-env": "^7.0.3"
-  }
+  },
+  "gitHead": "2484fb9ff3ac04a7055d22a75eac6764bfe9e63f"
 }
