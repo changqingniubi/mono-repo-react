@@ -2,25 +2,20 @@
   "name": "@mono-repo-react/common",
   "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "changqing <qing.chang@eeoa.com>",
-  "homepage": "",
+  "author": "Jiu, shang",
+  "homepage": "https://github.com/changqingniubi/mono-repo-react/blob/master/README.md",
   "license": "ISC",
-  "main": "lib/common.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
   "publishConfig": {
     "registry": "https://registry.npmmirror.com/"
   },
-  "scripts": {
-    "test": "node ./__tests__/common.test.js"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changqingniubi/mono-repo-react.git"
   },
   "dependencies": {
     "antd": "4.9.4",
     "cross-env": "^7.0.3"
   }
 }
+https://github.com/changqingniubi/mono-repo-react.git
+https://github.com/changqingniubi/mono-repo-react/blob/master/README.md
