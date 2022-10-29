@@ -1,8 +1,8 @@
 {
   "name": "@mono-repo-react/admin-site",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "dependencies": {
-    "@mono-repo-react/common": "^0.1.0",
+    "@mono-repo-react/common": "^0.2.0",
     "cross-env": "^7.0.3"
   },
   "scripts": {
