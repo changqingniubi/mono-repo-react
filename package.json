@@ -5,8 +5,13 @@
     "packages/*"
   ],
   "scripts": {
+    "clean": "lerna clean",
+    "bootstrap": "lerna bootstrap --hoist",
     "start:aSite": "lerna --scope @mono-repo-react/admin-site run start",
-    "start:cSite": "lerna --scope @mono-repo-react/customer-site run start"
+    "start:cSite": "lerna --scope @mono-repo-react/customer-site run start",
+    "build:aSite": "lerna --scope @mono-repo-react/admin-site run build",
+    "build:cSite": "lerna --scope @mono-repo-react/customer-site run build",
+    "release": "lerna publish"
   },
   "devDependencies": {
     "lerna": "^6.0.1"
